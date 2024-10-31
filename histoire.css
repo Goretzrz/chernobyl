@@ -1,11 +1,28 @@
+/* style.css */
 body {
-    font-family: Arial, sans-serif;
-  }
-  
-  .bg-danger {
-    background-color: #8B0000; /* Rouge plus sombre, proche du rouge communiste */
-  }
-  
-  .bg-dark {
-    background-color: #212529; /* Gris foncé pour mettre en valeur le jaune */
-  }
+  font-family: Arial, sans-serif;
+}
+
+.bg-danger {
+  background-color: #B22222;
+}
+
+.text-warning {
+  color: #B8860B;
+}
+
+.bg-purple {
+  background-color: purple;
+  color: white;
+}
+
+.bg-secondary {
+  background-color: #808080;
+  color: white;
+}
+
+.fixed-bottom {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
