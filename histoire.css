@@ -9,16 +9,18 @@ body {
 
 .text-warning {
   color: #B8860B;
+  font-family :'Times New Roman', Times, serif
+
 }
 
 .bg-purple {
   background-color: purple;
-  color: white;
+  
 }
 
 .bg-secondary {
   background-color: #808080;
-  color: white;
+  
 }
 
 .fixed-bottom {
