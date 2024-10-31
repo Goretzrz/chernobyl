@@ -1,6 +1,7 @@
 /* style.css */
 body {
   font-family: Arial, sans-serif;
+  
 }
 
 .bg-danger {
@@ -15,6 +16,7 @@ body {
 
 .bg-purple {
   background-color: purple;
+  
   
 }
 
