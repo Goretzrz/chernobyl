@@ -12,12 +12,8 @@
     font-weight: bold;
 }
 
-.footer {
-    background-color: #808080;
-    color: #fff;
-    text-align: center;
-    padding: 1rem;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+.img-fluid {
+    max-width: 30%; /* Ajustez la largeur maximale comme vous le souhaitez */
+    height: auto;
+    margin: 0 auto; /* Centre l'image horizontalement */
 }
